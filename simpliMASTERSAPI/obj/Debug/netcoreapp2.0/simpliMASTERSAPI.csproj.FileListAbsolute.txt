@@ -1,0 +1,14 @@
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\bin\Debug\netcoreapp2.0\simpliMASTERSAPI.deps.json
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\bin\Debug\netcoreapp2.0\simpliMASTERSAPI.runtimeconfig.json
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\bin\Debug\netcoreapp2.0\simpliMASTERSAPI.runtimeconfig.dev.json
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\bin\Debug\netcoreapp2.0\simpliMASTERSAPI.dll
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\bin\Debug\netcoreapp2.0\simpliMASTERSAPI.pdb
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\bin\Debug\netcoreapp2.0\Interop.SAPbobsCOM.dll
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.csprojAssemblyReference.cache
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.csproj.CoreCompileInputs.cache
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.AssemblyInfoInputs.cache
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.AssemblyInfo.cs
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.csproj.CopyComplete
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.dll
+D:\SimpliWorks\SimpliMaster\API\simpliMasterAPI\simpliMASTERSAPI\simpliMASTERSAPI\obj\Debug\netcoreapp2.0\simpliMASTERSAPI.pdb

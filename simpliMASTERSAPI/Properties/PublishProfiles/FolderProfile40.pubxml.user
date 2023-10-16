@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\deployment\plutusmasterapi</_PublishTargetUrl>
+    <History>True|2023-03-23T14:15:19.0676619Z;True|2023-03-23T19:44:57.8473372+05:30;True|2023-03-23T19:36:02.1547970+05:30;True|2023-03-23T19:16:05.5813759+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
